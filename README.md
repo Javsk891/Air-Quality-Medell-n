@@ -24,3 +24,8 @@ Los errores cuadraticos medios (RSME) han dado valores aceptables, sin embargo e
 ![image](https://github.com/Javsk891/Air-Quality-Medell-n/assets/96545411/905bc2d8-7049-4e1d-af8b-1e015709294e)
 
 También se considera el análisis en los diferentes metodos de imputación de datos faltantes en el set de datos de entrada, ya que se considera que este puede ser un factor que pudo disminuir la capacidad de predicción del modelo 
+
+Las perdidas de RMSE dan buenos resultados, en la siguiente gráfica se puede observar
+
+![image](https://github.com/Javsk891/Air-Quality-Medell-n/assets/96545411/e5c6f526-a1d6-43f4-a019-a1204acd1919)
+
